@@ -1,1 +1,3 @@
-# react-babel-webpack
+# React-Babel-Webpack
+configuracion tomada de:
+https://www.valentinog.com/blog/react-webpack-babel/
